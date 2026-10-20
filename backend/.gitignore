@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+!data/.gitkeep
