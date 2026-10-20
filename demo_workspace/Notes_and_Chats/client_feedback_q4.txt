@@ -1,0 +1,14 @@
+Client Feedback Compilation - Enterprise Early Access
+Source: Interviews with 12 Beta Users
+
+1. File Organizer Feedback:
+"The dry-run preview is a lifesaver. Other tools move files silently and I lose track of where things went. Seeing the side-by-side diff before approving is exactly what gives me confidence."
+
+2. Morning Briefing Feedback:
+"I don't have time to read 20-page Slack threads every morning. Having the AI pull out the 5 actual things that need my attention saved me at least 45 minutes every morning."
+
+3. Privacy & Offline Capability:
+"Knowing that my confidential accounting receipts and personal photos never leave my device to some cloud API is non-negotiable for our compliance policy."
+
+Action Item: Ensure the 'Wipe Local History' button is easily accessible in the Settings view.
+Action Item: Highlight model connection latency in the navbar badge.

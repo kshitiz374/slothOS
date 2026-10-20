@@ -1,0 +1,10 @@
+MEETING NOTES - OCT 18 (Q4 Engineering Sync)
+Attendees: Alex, Priya, Carlos, Sam
+
+Key Discussion:
+- Performance regression noticed in local indexer when processing directories with > 10,000 files.
+- Action: Carlos to optimize directory walker with generator expressions by Thursday.
+- Deadline: v1.0 Release Candidate freeze is strictly Oct 28 at 5:00 PM EST.
+- Question: Do we support custom prompt templates for the morning digest, or keep it zero-config?
+- Urgent: Fix Windows path separator bug on OneDrive synced roots before tomorrow morning's client demo!
+- Reminder: Priya is out on Friday for university presentation.

@@ -1,0 +1,5 @@
+Chapter 2: Literature Review on Edge Inference
+
+Recent advancements in small language models (SLMs) such as Qwen 2.5 and Llama 3.2 enable real-time local task execution on consumer-grade hardware without sending unencrypted telemetry to centralized data centers.
+
+Key Research Hypothesis: Micro-task planning reduces user anxiety and task abandonment.
